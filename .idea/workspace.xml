@@ -2,245 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67025c85-dd0e-475b-8ab2-9745cd2cc335" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/var/cache/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/var/logs/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/var/sessions/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/var/cache/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/var/logs/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/var/sessions/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer.phar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/var/cache/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/var/logs/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/var/sessions/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../symfony" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/var/cache/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/var/logs/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/var/sessions/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/rationale-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/rationale-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/rationale-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/rationale-regular-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/webfontkit-20150426-043002.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/bg-begin-repeat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/bg-dl-repeat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/bg-header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/bg-title-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/bg-wall-repeat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/AppCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/AppKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/Resources/views/default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/config_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/config_prod.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/config_test.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/parameters.yml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/routing_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/security.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/app/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/bin/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/bin/symfony_requirements" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/AppBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/Controller/ArticleController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/Controller/AuthorController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/Entity/Article.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/Entity/Author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/src/AppBundle/Serializer/Listener/ArticleListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/tests/AppBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/var/SymfonyRequirements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/app_dev.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Rest-api/web/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../add_vhost.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/AppCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/AppKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/Resources/views/default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/config_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/config_prod.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/config_test.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/parameters.yml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/routing_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/security.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/app/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/bin/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/bin/symfony_requirements" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/src/AppBundle/AppBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/src/AppBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/tests/AppBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/var/SymfonyRequirements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/app_dev.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../article-api/web/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/AppCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/AppKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/Resources/views/default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/Resources/views/default/test.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/config_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/config_prod.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/config_test.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/parameters.yml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/routing_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/security.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/app/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/bin/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/bin/symfony_requirements" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/AppBundle/AppBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/AppBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/CatalogueBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Controller/ProduitController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Entity/Produit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Repository/ProduitRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Resources/views/Default/addproduit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Resources/views/Default/formproduit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/CatalogueBundle/Resources/views/Default/listeproduit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/GuzzleBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/GuzzleBundle/Controller/GuzzleController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/GuzzleBundle/GuzzleBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/GuzzleBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/GuzzleBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/GuzzleBundle/UrlConfiguration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Controller/VoitureController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Entity/Marque.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Entity/Voiture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Repository/MarqueRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Repository/VoitureRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Resources/views/Default/addMarque.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Resources/views/Default/formvoiture.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/Resources/views/Default/listevoiture.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/src/VoitureBundle/VoitureBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/tests/AppBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/tests/CatalogueBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/tests/GuzzleBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/tests/VoitureBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/var/SymfonyRequirements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/app_dev.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../siteweb/web/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test_sockets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testmysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/AppCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/AppKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/Resources/views/default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/config_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/config_prod.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/config_test.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/parameters.yml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/routing_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/security.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/app/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/bin/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/bin/symfony_requirements" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/AppBundle/AppBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/AppBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/CatalogueBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/Controller/ProduitController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/Entity/Produit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/Repository/ProduitRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/src/CatalogueBundle/Resources/views/Default/addproduit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/tests/AppBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/tests/CatalogueBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/var/SymfonyRequirements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/app_dev.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../todolist/web/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_english.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_french.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_hellenic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_macedonian.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_portuguese.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_romanian.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/add_vhost_turkish.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_english.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_french.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_hellenic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_macedonian.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_portuguese.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_romanian.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wamplangues/index_turkish.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/classic/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/generator_config.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/rationale-regular-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/rationale-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/specimen_files/easytabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/specimen_files/grid_12-825-55-15.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/specimen_files/specimen_stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/fonts/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/modern/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/no-style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wampthemes/simple/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -253,10 +17,60 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppBundle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -336,6 +150,24 @@
               <item name="todo-" type="b2602c69:ProjectViewProjectNode" />
               <item name="todo-" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="todo-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="todo-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="todo-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -346,6 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/php/pear/phpunit-5.7.25.phar" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -374,7 +207,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511735602753</updated>
-      <workItem from="1511735604025" duration="500000" />
+      <workItem from="1511735604025" duration="1885000" />
     </task>
     <servers />
   </component>
@@ -390,14 +223,16 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500000" />
+    <option name="totallyTimeSpent" value="1885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2992126" sideWeight="0.50292826" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2992126" sideWeight="0.50292826" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2992126" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -420,6 +255,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -437,6 +277,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
